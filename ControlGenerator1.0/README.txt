@@ -12,3 +12,7 @@ How It Works :
 4. Parent and animate !
 
 Coded in Python for Autodesk Maya. Tested on Maya 2012.
+
+BlogLink : https://medium.com/p/6e0fe3bda4d1
+
+YoutubeLink : https://www.youtube.com/watch?v=6dK-uK3-56I
