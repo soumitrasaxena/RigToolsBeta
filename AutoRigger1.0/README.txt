@@ -20,3 +20,7 @@ Features :
 4. Easily modifiable regardless of model complexity.
 
 Coded in Python for Autodesk Maya. Tested on Maya 2012.
+
+BlogLink : https://medium.com/p/c0129ad46396
+
+YoutubeLink : https://www.youtube.com/watch?v=mr7RRieTV7A
