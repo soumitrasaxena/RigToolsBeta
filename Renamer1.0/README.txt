@@ -17,3 +17,7 @@ How It Works :
 5. Click on Rename ! 
 
 Coded in Python for Autodesk Maya. Tested on Maya 2012.
+
+BlogLink : https://medium.com/p/54d070610d50
+
+YoutubeLink : https://www.youtube.com/watch?v=q6D6irnJ8xU
