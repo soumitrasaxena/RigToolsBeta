@@ -10,4 +10,8 @@ The package contains the following scripts -
 3. Renamer1.0 - Tired of renaming all the nodes yourselves ? The Maya 'prefix' tool can only help so much. This script allows you to rename the entire tree (prefix and suffix both). 
 	
 Coded in Python for Autodesk Maya. Tested on Maya 2012.
+
+BlogLink : https://medium.com/@soumitrasaxena/latest
+
+YoutubeLink : https://www.youtube.com/watch?v=mr7RRieTV7A&list=PLqoVt6DmOxN3YAprVQ0V4944y8anCbfyg
 	 	
